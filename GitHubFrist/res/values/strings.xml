@@ -4,5 +4,12 @@
     <string name="app_name">GitHubFrist</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+	
+    <string name="lisao1">亦余心之所善兮,</string>
+    <string name="lisao2">虽九死其犹未悔。</string>
+    
+    <string name="east">东 青龙</string>
+    <string name="west">西 白虎</string>
+    <string name="south">南 朱雀</string>
+    <string name="nouth">北 玄武</string>
 </resources>
